@@ -741,19 +741,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: rgb(212 212 216 / var(--tw-border-opacity));
 }
 
-.border-semidark {
-  --tw-border-opacity: 1;
-  border-color: rgb(113 113 122 / var(--tw-border-opacity));
-}
-
 .border-zinc-700 {
   --tw-border-opacity: 1;
   border-color: rgb(63 63 70 / var(--tw-border-opacity));
-}
-
-.border-zinc-600 {
-  --tw-border-opacity: 1;
-  border-color: rgb(82 82 91 / var(--tw-border-opacity));
 }
 
 .bg-transparent {
@@ -800,10 +790,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .p-3 {
   padding: 0.75rem;
-}
-
-.p-24 {
-  padding: 6rem;
 }
 
 .px-4 {
@@ -863,12 +849,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 4rem;
 }
 
-.pb-12 {
-  padding-bottom: 3rem;
-}
-
 .pt-24 {
   padding-top: 6rem;
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
 }
 
 .pt-10 {
@@ -912,10 +898,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-
-.text-\[0\.75rem\] {
-  font-size: 0.75rem;
 }
 
 .text-xs {
